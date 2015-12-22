@@ -15,6 +15,7 @@ namespace XmasCodeKata8.Controllers
             _days.Add("Five Gold Rings");
             _days.Add("Six Geese a-Laying");
             _days.Add("Seven Swans a-Swimming");
+            _days.Add("Eight Maids a-Milking");
 
         }
         public string Day(int day)
